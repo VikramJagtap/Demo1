@@ -1,0 +1,123 @@
+* {
+  font-size: 18px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.fixed-top {
+  background-color: #fff;
+}
+
+.spn-one {
+  font-size: 40px;
+  color: blue;
+}
+
+.spn-two {
+  font-size: 40px;
+  color: #20D34A;
+}
+
+.first {
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+   url(../images/illustration/home_background_1.jpg);
+  background-size: cover;
+}
+
+.first h1 {
+  font-size: 60px
+}
+
+.first p {
+  color: #00000090;
+}
+
+ button {
+  background-color: #283290;
+  outline: none;
+}
+
+.second .p-2 {
+  background-color: #283290;
+  color: #ffffff;
+}
+
+.second .p-2:hover {
+  box-shadow: 10px 10px 25px black;
+}
+
+.third {
+  background-image: url(../images/illustration/departments.jpg);
+}
+
+.third h3 {
+  font-size: 20px;
+}
+
+.mx-2 {
+  color: black;
+  background-color: white;
+}
+
+
+.svg{
+  height: 80px;
+  width: 80px;
+}
+.Service{
+  padding: 60px;
+  /* background-color: #cee9f537; */
+background-color: #f5f7fa;
+  
+}
+.Service:hover{
+  background-color: #283290;
+  color: white;
+}
+.Service h5{
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Service p{
+  color: #a5a6a7;
+}
+
+
+.fifth {
+  background-image: url(../images/illustration/cta.jpg);
+}
+
+.six {
+  background-color: #060B3A;
+}
+
+.six .p-4 {
+  background-color: white ;
+}
+
+.six i {
+  background-color: #20D34A;
+}
+
+.six h5 {
+  color: #20D34A;
+  font-size: 18px;
+}
+
+footer {
+  background-color: #020523;
+  color: #20D34A;
+}
+
+footer .bi {
+  background-color: #020523;
+  color: #20D34A;
+}
